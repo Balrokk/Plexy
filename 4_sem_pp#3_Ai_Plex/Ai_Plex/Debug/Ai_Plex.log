@@ -1,0 +1,17 @@
+﻿  MyForm.cpp
+c:\users\антон\desktop\4_sem_pp#3_ai_plex\ai_plex\tpoint.h(138): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\антон\desktop\4_sem_pp#3_ai_plex\ai_plex\tstack.h(15): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\антон\desktop\4_sem_pp#3_ai_plex\ai_plex\tstack.h(12): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\антон\desktop\4_sem_pp#3_ai_plex\ai_plex\tstack.h(52): note: выполняется компиляция ссылки на экземпляр шаблон функции "void TStack<TBase *>::Repack(void)"
+  c:\users\антон\desktop\4_sem_pp#3_ai_plex\ai_plex\tplex.h(33): note: выполняется компиляция ссылки на экземпляр шаблон класс "TStack<TBase *>"
+  TBase.cpp
+  TLine.cpp
+  TPlex.cpp
+  TPoint.cpp
+  TStack.cpp
+  Создание кода...
+c:\users\антон\desktop\4_sem_pp#3_ai_plex\ai_plex\tstack.h(66): warning C4715: TStack<TBase *>::Show: значение возвращается не при всех путях выполнения
+c:\users\антон\desktop\4_sem_pp#3_ai_plex\ai_plex\tstack.h(60): warning C4715: TStack<TBase *>::Get: значение возвращается не при всех путях выполнения
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Ai_Plex.vcxproj -> C:\Users\Антон\Desktop\4_sem_pp#3_Ai_Plex\Debug\Ai_Plex.exe
